@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ 
+  background-color: black;
+  background-image: url('https://p4.wallpaperbetter.com/wallpaper/225/551/706/star-wars-lightsaber-fight-wallpaper-preview.jpg');
+  background-repeat: no-repeat;
+  background-size: 80%;
+  background-position: top;
+} 
+
